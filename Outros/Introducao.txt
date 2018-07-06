@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Introducao.txt
 Este é o repositório da Incubadora de 2018 do jogo da Morte da Familia Brasileira.
 <<<<<<< HEAD
 
@@ -24,6 +25,9 @@ Este é o repositório da Incubadora de 2018 do jogo da Morte da Familia Brasileir
     (00)
 (-----------)
 =======
+=======
+Este é o repositório da Incubadora de 2018 do jogo Your Status
+>>>>>>> b026ff1db20b392ac12a80859696f0aae4fc2e61:Outros/Introducao.txt
 Este jogo é legal e o nome é muito louco.
 ----------------------------------------------------------------TESTE © COPYRIGHTS INCUBADORA180------------------------------------------------
 >>>>>>> aaf07dd8b5f0a13fb0c3414bd6d9cc323112ca1f

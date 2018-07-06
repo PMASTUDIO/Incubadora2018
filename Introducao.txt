@@ -1,4 +1,5 @@
 Este é o repositório da Incubadora de 2018 do jogo da Morte da Familia Brasileira.
+<<<<<<< HEAD
 
 (Nome do jogo a definir)
 
@@ -22,3 +23,7 @@ Este é o repositório da Incubadora de 2018 do jogo da Morte da Familia Brasileir
 (0__)  (__0)
     (00)
 (-----------)
+=======
+Este jogo é legal e o nome é muito louco.
+----------------------------------------------------------------TESTE © COPYRIGHTS INCUBADORA180------------------------------------------------
+>>>>>>> aaf07dd8b5f0a13fb0c3414bd6d9cc323112ca1f
